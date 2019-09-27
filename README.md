@@ -5,3 +5,6 @@ Darkneti kurmak için http://blog.yavuzz.com/post/gercek-zamanli-nesne-tespiti-k
 Darkneti kurduktan sonra yolov3.weight adlı dosyayı indirmelisiniz. Dosyayı https://pjreddie.com/darknet/yolo/ bu linkten bulup indirebilirsiniz.
 Scripti çalıştırmadan önce dosya uzantılarına dikkat edin.
 Terminal üzerinden python3 app.py yazıp çalıştırabilirsiniz.
+
+
+Sorularınızı bilgi@omermutlu.com.tr mail adresine gönderebilirsiniz
